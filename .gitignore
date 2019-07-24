@@ -1,0 +1,6 @@
+digit_recognition/
+digit-recognizer/
+__pycache__
+.idea
+DS_Store
+~*.pyc
